@@ -1,0 +1,798 @@
+<?xml version="1.0"?>
+<Skein rootNode="node-0x1cfbbaf0" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Zoom</generator>
+  <activeNode nodeId="node-0x1cfbbaf0" />
+  <item nodeId="node-0x1cfbbaf0">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">
+
+
+
+CambridgeUnionSociety
+An Interactive Fiction by Us
+Release 1 / Serial number 090510 / Inform 7 build 5U92 (I6/v6.31 lib 6/12N) SD
+
+Presidents Office
+A description of the President&apos;s office goes here
+
+The president is making paper airplanes out of the Union Constitution.
+
+You can also see a safe (closed) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="80">NO</temporary>
+    <children>
+      <child nodeId="node-0x1cf79010" />
+      <child nodeId="node-0x1cf79c10" />
+      <child nodeId="node-0x1cf79a60" />
+      <child nodeId="node-0x1cf799d0" />
+      <child nodeId="node-0x1cfa6b30" />
+      <child nodeId="node-0x1cf55fe0" />
+      <child nodeId="node-0x1cf79100" />
+      <child nodeId="node-0x1cf98df0" />
+      <child nodeId="node-0x1cf99030" />
+      <child nodeId="node-0x1cf98fa0" />
+      <child nodeId="node-0x1cf98f10" />
+      <child nodeId="node-0x1cfe08c0" />
+      <child nodeId="node-0x1cfdf910" />
+      <child nodeId="node-0x1cfbbb40" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cfbbb40">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">President&apos;s Office
+A description of the President&apos;s office goes here
+
+The president is making paper airplanes out of the Union Constitution.
+
+You can also see a safe (closed) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="55">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cfdfad0" />
+      <child nodeId="node-0x1d69b9c0" />
+      <child nodeId="node-0x164aa000" />
+    </children>
+  </item>
+  <item nodeId="node-0x164aa000">
+    <command xml:space="preserve">look at launchpad</command>
+    <result xml:space="preserve">This is a very ordinary launchpad, containing mundane things like espresso bars and pingpong tables. One pingpong table is blue.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="22">YES</temporary>
+    <children>
+      <child nodeId="node-0x1d69b930" />
+    </children>
+  </item>
+  <item nodeId="node-0x1d69b930">
+    <command xml:space="preserve">look at rocket</command>
+    <result xml:space="preserve">You see nothing special about the Rocket.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="21">YES</temporary>
+  </item>
+  <item nodeId="node-0x1d69b9c0">
+    <command xml:space="preserve">down</command>
+    <result xml:space="preserve">
+Launchpad
+This is a very ordinary launchpad, containing mundane things like espresso bars and pingpong tables. One pingpong table is blue.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="7">YES</temporary>
+    <children>
+      <child nodeId="node-0x1d69ba50" />
+    </children>
+  </item>
+  <item nodeId="node-0x1d69ba50">
+    <command xml:space="preserve">up</command>
+    <result xml:space="preserve">
+Rocket
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="7">YES</temporary>
+  </item>
+  <item nodeId="node-0x1cfdfad0">
+    <command xml:space="preserve">open safe</command>
+    <result xml:space="preserve">You open the safe, revealing a bell and a hairband.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="55">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cfe0700" />
+      <child nodeId="node-0x1cfdfba0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cfdfba0">
+    <command xml:space="preserve">take bell</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="46">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cfdfc30" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cfdfc30">
+    <command xml:space="preserve">look at bell</command>
+    <result xml:space="preserve">It is a bell. Ask not for whom it tolls.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="46">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cfdfcc0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cfdfcc0">
+    <command xml:space="preserve">for whom does it toll?</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="46">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cfe0670" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cfe0670">
+    <command xml:space="preserve">take hairband</command>
+    <result xml:space="preserve"> Livvy looks at you pointedly. &quot;that hairband has been there for millenia, it is a very famous hairband and I can&apos;t be responsible for what happens if it&apos;s lost &quot;.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="45">YES</temporary>
+  </item>
+  <item nodeId="node-0x1cfe0700">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">President&apos;s Office
+A description of the President&apos;s office goes here
+
+The president is making paper airplanes out of the Union Constitution.
+
+You can also see a safe (in which are a bell and a hairband) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="55">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cfe0790" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cfe0790">
+    <command xml:space="preserve">look at the president</command>
+    <result xml:space="preserve">This is a description of the Cambridge Union Society President.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="55">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cfe0920" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cfe0920">
+    <command xml:space="preserve">take bell</command>
+    <result xml:space="preserve">&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="55">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cfe0970" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cfe0970">
+    <command xml:space="preserve">look at the president</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="55">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cfe09c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cfe09c0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">President&apos;s Office
+A description of the President&apos;s office goes here
+
+You can see a safe (in which is a hairband) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="55">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cfe0a50" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cfe0a50">
+    <command xml:space="preserve">take hairband</command>
+    <result xml:space="preserve">You reach out for the hairband, and are racked with pangs of guilt. You feel Margaret Thatcher watching you from across the generations. She cannot approve. You draw your hand back again, thoroughly freaked out.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="55">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cfdf880" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cfdf880">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Reception
+A maze of activity, the office is strewn with printouts, computers, old copies of books and periodicals, and the occasional debater.
+
+The president is making paper airplanes out of the Union Constitution.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="54">YES</temporary>
+  </item>
+  <item nodeId="node-0x1cfdf910">
+    <command xml:space="preserve">open safe</command>
+    <result xml:space="preserve">You open the safe, revealing a bell and a hairband.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="66">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cfdf9a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cfdf9a0">
+    <command xml:space="preserve">take bell</command>
+    <result xml:space="preserve">The President sees your theft and leaves in a blur of red tape.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="66">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cfea690" />
+      <child nodeId="node-0x1cfdfa30" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cfdfa30">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Presidents Office
+A description of the President&apos;s office goes here
+
+You can see a safe (in which is a hairband) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="61">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cfea4e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cfea4e0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Reception
+A maze of activity, the office is strewn with printouts, computers, old copies of books and periodicals, and the occasional debater.
+
+The President is reporting your theft of the bell on a tedious form.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="61">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cfea570" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cfea570">
+    <command xml:space="preserve">drop bell</command>
+    <result xml:space="preserve">Dropped.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="61">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cfea600" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cfea600">
+    <command xml:space="preserve">take bell</command>
+    <result xml:space="preserve">&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="60">YES</temporary>
+  </item>
+  <item nodeId="node-0x1cfea690">
+    <command xml:space="preserve">drop bell</command>
+    <result xml:space="preserve">Dropped.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="66">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cfe0820" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cfe0820">
+    <command xml:space="preserve">taek bell</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="66">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cfe0870" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cfe0870">
+    <command xml:space="preserve">take bell</command>
+    <result xml:space="preserve">The President sees your theft and leaves in a blur of red tape.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="65">YES</temporary>
+  </item>
+  <item nodeId="node-0x1cfe08c0">
+    <command xml:space="preserve">look at safe</command>
+    <result xml:space="preserve">Next to the office door is a large black safe. It has old rotting documents in it that no one wants. But it looks impressive, so the officers keep it around. In general, the officers tend to keep things in the office which look impressive but are useless. Except the officers, of course.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="80">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cfa6720" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cfa6720">
+    <command xml:space="preserve">open safe</command>
+    <result xml:space="preserve">You open the safe, revealing a bell and a hairband.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="80">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cf55ec0" />
+      <child nodeId="node-0x1cfa67b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cfa67b0">
+    <command xml:space="preserve">take bell</command>
+    <result xml:space="preserve">The President sees your theft and leaves in a blur of red tape.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="80">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cf55de0" />
+      <child nodeId="node-0x1cfa6840" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cfa6840">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Reception
+A maze of activity, the office is strewn with printouts, computers, old copies of books and periodicals, and the occasional debater.
+
+The President is reporting your theft of the bell on a tedious form.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="80">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cfa68d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cfa68d0">
+    <command xml:space="preserve">look at president</command>
+    <result xml:space="preserve">This is a description of the Cambridge Union Society President.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="79">YES</temporary>
+  </item>
+  <item nodeId="node-0x1cf55de0">
+    <command xml:space="preserve">restart</command>
+    <result xml:space="preserve">Are you sure you want to restart? </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="74">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cf55e30" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cf55e30">
+    <command xml:space="preserve">y</command>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="73">YES</temporary>
+  </item>
+  <item nodeId="node-0x1cf55ec0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">President&apos;s Office
+A description of the President&apos;s office goes here
+
+The president is making paper airplanes out of the Union Constitution.
+
+You can also see a safe (empty) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="40">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cf55f50" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cf55f50">
+    <command xml:space="preserve">look at safe</command>
+    <result xml:space="preserve"> The safe is now open. Inside you see a bell, and a pile of rotting documents. Margaret Thatcher&apos;s old hairband is scrumpled in the back corner. 
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="39">YES</temporary>
+  </item>
+  <item nodeId="node-0x1cf98f10">
+    <command xml:space="preserve">take launchpad</command>
+    <result xml:space="preserve">That&apos;s fixed in place.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="24">YES</temporary>
+  </item>
+  <item nodeId="node-0x1cf98fa0">
+    <command xml:space="preserve">eat the rocket</command>
+    <result xml:space="preserve">(first taking the Toy Rocket)
+Rockets do indeed taste good, but what will you say when your boss comes back and asks you what you did with it? Your dog is not here, so you can&apos;t blame it on him.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="28">YES</temporary>
+  </item>
+  <item nodeId="node-0x1cf99030">
+    <command xml:space="preserve">look at the safe</command>
+    <result xml:space="preserve"> The safe is now open. Inside you see a bell, and a pile of rotting documents. Margaret Thatcher&apos;s old hairband is scrumpled in the back corner. 
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="36">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cf990c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cf990c0">
+    <command xml:space="preserve">close the safe</command>
+    <result xml:space="preserve">You close the safe.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="36">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cf99150" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cf99150">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">President&apos;s Office
+A description of the President&apos;s office goes here
+
+The president is making paper airplanes out of the Union Constitution.
+
+You can also see a safe (closed) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="36">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cf991e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cf991e0">
+    <command xml:space="preserve">look at safe</command>
+    <result xml:space="preserve"> Next to the office door is a large black safe. It has old rotting documents in it that no one wants. But it looks impressive, so the officers keep it around. In general, the officers tend to keep things in the office which look impressive but are useless. Except the officers, of course.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="35">YES</temporary>
+  </item>
+  <item nodeId="node-0x1cf98df0">
+    <command xml:space="preserve">take rocket</command>
+    <result xml:space="preserve">That&apos;s fixed in place.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="27">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cf98e80" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cf98e80">
+    <command xml:space="preserve">take toy rocket</command>
+    <result xml:space="preserve">That&apos;s fixed in place.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="26">YES</temporary>
+  </item>
+  <item nodeId="node-0x1cf79100">
+    <command xml:space="preserve">take inventory</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="19">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cf79150" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cf79150">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="19">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cf791e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cf791e0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Rocket
+The Magical Rockets of wootness are fine rockets indeed. Lined with velvet and containing more on the inside than on the, these rockets were famed in the land for their ability to say &quot;Woot&quot;.
+
+You can see an inventory here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="19">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cf79270" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cf79270">
+    <command xml:space="preserve">eat inventory</command>
+    <result xml:space="preserve">(first taking the inventory)
+That&apos;s plainly inedible.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="19">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cf79300" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cf79300">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying:
+  an inventory
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="19">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cfa6a10" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cfa6a10">
+    <command xml:space="preserve">drop inventory</command>
+    <result xml:space="preserve">Dropped.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="19">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cfa6aa0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cfa6aa0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Rocket
+The Magical Rockets of wootness are fine rockets indeed. Lined with velvet and containing more on the inside than on the, these rockets were famed in the land for their ability to say &quot;Woot&quot;.
+
+You can see an inventory here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="18">YES</temporary>
+  </item>
+  <item nodeId="node-0x1cf55fe0">
+    <command xml:space="preserve">look at if the president here</command>
+    <result xml:space="preserve">I only understood you as far as wanting to look at if The President.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="74">YES</temporary>
+  </item>
+  <item nodeId="node-0x1cfa6b30">
+    <command xml:space="preserve">hi livvy</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cfa6bc0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cfa6bc0">
+    <command xml:space="preserve">say hello to livvy</command>
+    <result xml:space="preserve">There is no reply.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cf79940" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cf79940">
+    <command xml:space="preserve">look at livvy</command>
+    <result xml:space="preserve">this is a description of the Cambridge Union Society President.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="31">YES</temporary>
+  </item>
+  <item nodeId="node-0x1cf799d0">
+    <command xml:space="preserve">take Launchpad</command>
+    <result xml:space="preserve">That&apos;s hardly portable.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="23">YES</temporary>
+  </item>
+  <item nodeId="node-0x1cf79a60">
+    <command xml:space="preserve">take bell</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="69">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cf79af0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cf79af0">
+    <command xml:space="preserve">open safe</command>
+    <result xml:space="preserve">You open the safe, revealing a bell and a hairband.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="69">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cf79b80" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cf79b80">
+    <command xml:space="preserve">take bell</command>
+    <result xml:space="preserve">
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="68">YES</temporary>
+  </item>
+  <item nodeId="node-0x1cf79c10">
+    <command xml:space="preserve">take alpaca</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="12">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cf79ca0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cf79ca0">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying:
+  an alpaca
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="12">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cf78e60" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cf78e60">
+    <command xml:space="preserve">eat alpaca</command>
+    <result xml:space="preserve">That&apos;s plainly inedible.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="12">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cf78ef0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cf78ef0">
+    <command xml:space="preserve">drop alpaca</command>
+    <result xml:space="preserve">Dropped.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="12">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cf78f80" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cf78f80">
+    <command xml:space="preserve">throw alpaca</command>
+    <result xml:space="preserve">The alpaca is already here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="11">YES</temporary>
+  </item>
+  <item nodeId="node-0x1cf79010">
+    <command xml:space="preserve">look at rocket</command>
+    <result xml:space="preserve">The Magical Rockets of wootness are fine rockets indeed. Lined with velvet and containing more on the inside than on the, these rockets were famed in the land for their ability to say &quot;Woot&quot;.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="22">YES</temporary>
+  </item>
+</Skein>
